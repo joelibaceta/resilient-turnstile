@@ -1,0 +1,6 @@
+pyserial
+flask
+flask-socketio
+eventlet
+python-dotenv
+

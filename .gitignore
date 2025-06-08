@@ -3,3 +3,9 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+*.aux
+*.log
+*.DS_Store
+raspberry/env
+__pycache__
+lib/.DS_Store

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Turnstile Monitor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script type="module" src="{{ url_for('static', filename='js/antenna.js') }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="container">
+        <div id="three-container" class="panel">
+
+        </div>
+        <div id="info-panel" class="panel">
+            <h2>Datos</h2>
+            <p><span id="temp">--</span></p>
+            <p><span id="hum">--</span></p>
+            <p id="status" class="status">✅ Antena en posición vertical</p>
+        </div>
+    </div>
+    <script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+</body>
+</html>
