@@ -8,7 +8,7 @@ Este repositorio tiene como finalidad proporcionar una implementación reproduci
   <img src="figs/AntennaMonitor.png" width="50%">
 </p>
 
-📺 **[Ver video de funcionamiento](https://www.youtube.com/watch?v=TU_LINK_AQUI)
+📺 **[Ver video de funcionamiento]([https://www.youtube.com/watch?v=TU_LINK_AQUI](https://youtu.be/yltyIin1x2w))
 
 ---
 
